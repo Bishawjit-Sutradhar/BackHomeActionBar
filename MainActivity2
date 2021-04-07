@@ -17,7 +17,7 @@ public class MainActivity2 extends AppCompatActivity {
         ActionBar actionBar=getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
     }
-
+//Home ActionBar Method
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
 
